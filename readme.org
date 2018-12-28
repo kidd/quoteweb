@@ -1,0 +1,6 @@
+* what
+  output a random quote from the ones I collected in
+  https://github.com/kidd/quotes.
+
+* where
+  It's accessible from http://quote.raimonster.com
